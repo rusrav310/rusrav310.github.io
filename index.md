@@ -1,5 +1,7 @@
+[About me](about.md) 
+[My blog](blog.md)
+
 HELLO WORLD !!!
-HIII
 
 
 The *Shang writing system* was made of _characters or symbols_, much like the **Egyptian system**. Animal bones and shells called __oracle bones__ held the earliest writings. 
